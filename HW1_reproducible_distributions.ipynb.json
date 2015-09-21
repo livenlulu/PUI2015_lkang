@@ -58,8 +58,8 @@
     "collapsed": true
    },
    "outputs": [],
-   "source": [
-   "np.random.randn(100)\n"]
+   "source": ["N = 100\n"
+   "np.random.randn(N)\n"]
   },
   {
    "cell_type": "markdown",
@@ -76,7 +76,7 @@
     "collapsed": true
    },
    "outputs": [],
-   "source": ["N = 2\n",
+   "source": [,
    "np.random.randn(50)\n"]
   },
   {
@@ -98,7 +98,9 @@
     "collapsed": true
    },
    "outputs": [],
-   "source": []
+   "source": [ "fig = plt.figure()\n",
+   "ax1 = fig.add_subplot()\n"
+   "ax1.scatter(x, y, color='blue'\n"]
   },
   {
    "cell_type": "markdown",
