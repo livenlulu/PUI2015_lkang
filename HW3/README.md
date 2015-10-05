@@ -16,4 +16,4 @@ We compared two variables using the Z-score Normal Distribution data and percent
 
 alpha = 0.05
 
-Results: Since the result for employment for >6 consecutive months is 1.589, less than the critical value of 3.84, which has a higher p=0.25. Therefore we reject the null hypothesis, meaning that the percentage for former prisoners employed for 6+ years after release is higher for candidates who participated in the program as for the control group. Significance level p=0.25>p=0.05.
+Results: Since the result for employment for >6 consecutive months is 1.589, less than the critical value of 3.84, which has a higher p=0.25. Therefore we cannot reject the null hypothesis, meaning that the percentage for former prisoners employed for 6+ years after release is higher for candidates who participated in the program as for the control group. Significance level p=0.25>p=0.05.
