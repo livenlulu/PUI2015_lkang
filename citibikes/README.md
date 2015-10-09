@@ -16,4 +16,4 @@
 
 ## where μp = mean speed for off-peak hours, μr = mean speed for rush hours
 
-## I specifically used starttime column to come up with rush hours. Assume morning rush hour: 7am - 10am, afternoon rush hours: 4pm - 7pm, off-peak hours: 7pm - 7am and 10am - 4pm. The goal is to see if there's any relationships between the speed during rush hours (both morning and afternoon) and the speed during off-peak hours, then integrate the mean speed into hours. I then ran a test statistics too see whether I should reject the null hypothesis. 
+## I specifically used starttime column to come up with rush hours. Assume morning rush hour: 7am - 10am, evening rush hours: 4pm - 7pm, off-peak hours: 7pm - 7am and 10am - 4pm. The goal is to see if there's any relationships between the speed during rush hours (both morning and afternoon) and the speed during off-peak hours, then integrate the mean speed into hours. I then ran a test statistics too see whether I should reject the null hypothesis. 
