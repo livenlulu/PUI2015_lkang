@@ -32,7 +32,7 @@ Because we don't need combos nor rush hours anymore, we then formed a linear reg
 
 ## HW 4 Assignment 1 : Distributions 
 
-HW4-Assignment1.ipynb copy
+citibikes_compare_distributions.ipynb
 
 Data: 
 > [June 2015](https://s3.amazonaws.com/tripdata/201506-citibike-tripdata.zip)
