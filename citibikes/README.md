@@ -1,8 +1,8 @@
 # Citibikes HW 3 & HW 4.1, 4.3
 
-citibikes_group.ipynb
+## HW 3 Assignment 3
 
-## Assignment 3
+citibikes_group.ipynb
 
 Data: 
 > [Sept. 2015](https://drive.google.com/file/d/0B8EwoI-cGyuZY0QwWlFmNjlnMms/)
@@ -30,9 +30,7 @@ First we tried to figure out calculating distance using coordinates from longitu
 Because we don't need combos nor rush hours anymore, we then formed a linear regression model, comparing our distance t-value to the t-tables chart. I plotted a scatter plot to see speed (mph) vs distance. According to the t-table and the values we get, we reject the null hypothesis, which shows that there is a relationship between the two variables. If the distance increases 1 unit, the average speed will increase by 0.6540 units. 
 
 
-# HW #4
-
-## Assignment 1 : Distributions 
+## HW 4 Assignment 1 : Distributions 
 
 HW4-Assignment1.ipynb copy
 
