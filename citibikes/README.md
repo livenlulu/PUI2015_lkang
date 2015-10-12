@@ -1,7 +1,12 @@
 # Citibikes HW 3 & HW 4.1, 4.3
 
 citibikes_group.ipynb
-data: Sept. 2015
+
+Data: 
+> Sept. 2015(https://drive.google.com/file/d/0B8EwoI-cGyuZY0QwWlFmNjlnMms/)
+> station_combos.csv(https://github.com/livenlulu/PUI2015_lkang/blob/master/citibikes/station_combos.csv)
+> unique_stations.csv(https://github.com/livenlulu/PUI2015_lkang/blob/master/citibikes/unique_stations.csv)
+
 
 ## Assignment 3
 
@@ -26,6 +31,7 @@ Because we don't need combos nor rush hours anymore, we then formed a linear reg
 
 # HW #4
 HW4-Assignment1.ipynb copy
+
 Data: June 2015
 
 ## Assignment 1 : Distributions 
