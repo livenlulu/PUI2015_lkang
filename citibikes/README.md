@@ -4,7 +4,9 @@ citibikes_group.ipynb
 
 Data: 
 > [Sept. 2015](https://drive.google.com/file/d/0B8EwoI-cGyuZY0QwWlFmNjlnMms/)
+
 > [station_combos.csv](https://github.com/livenlulu/PUI2015_lkang/blob/master/citibikes/station_combos.csv)
+
 > [unique_stations.csv](https://github.com/livenlulu/PUI2015_lkang/blob/master/citibikes/unique_stations.csv)
 
 
