@@ -2,15 +2,14 @@
 
 citibikes_group.ipynb
 
+## Assignment 3
+
 Data: 
 > [Sept. 2015](https://drive.google.com/file/d/0B8EwoI-cGyuZY0QwWlFmNjlnMms/)
 
 > [station_combos.csv](https://github.com/livenlulu/PUI2015_lkang/blob/master/citibikes/station_combos.csv)
 
 > [unique_stations.csv](https://github.com/livenlulu/PUI2015_lkang/blob/master/citibikes/unique_stations.csv)
-
-
-## Assignment 3
 
 ### IDEA
 Riders are likely to ride faster in longer distances
@@ -32,11 +31,13 @@ Because we don't need combos nor rush hours anymore, we then formed a linear reg
 
 
 # HW #4
-HW4-Assignment1.ipynb copy
-
-Data: June 2015
 
 ## Assignment 1 : Distributions 
+
+HW4-Assignment1.ipynb copy
+
+Data: 
+> [June 2015](https://s3.amazonaws.com/tripdata/201506-citibike-tripdata.zip)
 
 I tested the correlation of the age distribution of Male vs Female riders and Day vs Night riders using June 2015 citibikes dataset.
 
