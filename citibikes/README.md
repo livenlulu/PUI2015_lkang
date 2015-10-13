@@ -52,3 +52,18 @@ I tested the correlation of the age distribution of Male vs Female riders and Da
 > Spearman's test: Since it is between -1 and +1 with 0, implies that there's no monotonic correlation relationship.
 
 > K-S test: Using a = .05, we reject the null hypothesis that these samples are drawn from the same distribution
+
+
+## HW 4 Assignment 3 : Goodness of fit on CitiBike data
+
+citibikes_goodness_of_fit.ipynb
+
+Data: 
+> [December 2014](https://s3.amazonaws.com/tripdata/201412-citibike-tripdata.zip)
+> [January 2015](https://s3.amazonaws.com/tripdata/201501-citibike-tripdata.zip)
+> [Febuary 2015](https://s3.amazonaws.com/tripdata/201502-citibike-tripdata.zip)
+> [June 2015](https://s3.amazonaws.com/tripdata/201506-citibike-tripdata.zip)
+> [July 2015](https://s3.amazonaws.com/tripdata/201507-citibike-tripdata.zip)
+> [August 2015](https://s3.amazonaws.com/tripdata/201508-citibike-tripdata.zip)
+
+Tested distributions to see whether a gaussian model for the age distribution of CitiBike drivers is a sensible model using Summer vs. Winter data.
