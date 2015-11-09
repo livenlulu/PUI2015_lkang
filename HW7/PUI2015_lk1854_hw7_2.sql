@@ -5,7 +5,7 @@ SELECT
       start_station_latitude, 
       start_station_longitude
       )
-	) as start_station_location,
+	) as the_geom_webmercator,
 	SUM(tripduration) AS trip_count
 
 FROM citibikehw7
