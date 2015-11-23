@@ -2,7 +2,7 @@
 
 3 Dimensions: 
 
-Total CO2 Emissions
+Total CO2 Emissions\n
 
 Total Population Size
 
