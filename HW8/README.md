@@ -6,4 +6,4 @@
 	Total Population Size
 	Total Population Density
 
-![Alt text](co2.png)
+![Alt text](lkang_hw8_graph.png)
