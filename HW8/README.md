@@ -1,5 +1,8 @@
 ## PUI 2015 HW 8
 
-CO2 Emission by Population Size and Density, Year 2000 U.S.
+3 Dimensions: 
+Total CO2 Emissions
+Total Population Size
+Total Population Density
 
 ![Alt text](co2.png)
