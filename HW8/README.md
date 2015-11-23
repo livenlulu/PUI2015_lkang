@@ -2,10 +2,8 @@
 
 3 Dimensions: 
 
-Total CO2 Emissions\n
-
+Total CO2 Emissions
 Total Population Size
-
 Total Population Density
 
 ![Alt text](co2.png)
