@@ -1,0 +1,67 @@
+the reviews are good and helpful 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+nice simple plot
+
+too much empty space on the top: distracting (and even on the left)
+
+small tick labels
+
+
+
+
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+dk2926
+============
+
+missing x label
+
+y label too small
+
+size of points is unexplained
+
+the large number of points causes crowdedness and ibstruction. consider contour plots instead where the density of points is too high
+
+
+
+rbc299
+============
+the 2 points default in the legend should he substituted by a single plot as it is redundant and with large points it overlaps
+
+missing units on x and y axis
+
+
+the y tick labels should be in a more compressed readable notation, e.g. change units to millions
+
+
+the empty space in the plot is distracting and does not help comparison (remember tufte's rules) 
+
+the point size is unexplained
+
+the color of Bk and Bx is indistinguishable at first sight
+
+the legend shows "dot size reflects..." which belongs in a separate label, not in the legend, and it confuses the association of the blue color to SI.
+
+size differential too large
+
+
+
+
+
+tg1442
+============
+  
+too many vivid colors are distracting
+
+agegroup one word in the tiel
+
+thousands is not ameaningful axis labels; use "Population (units of 1,000 peope")
+
+and then why use units of 1000 when your first tick label is 1e5? then one has to think what 1e5*1000 is. use units of millions, and then your first tick is 100 etc
